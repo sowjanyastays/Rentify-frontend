@@ -1,0 +1,30 @@
+.action-icons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+  }
+  
+  .action-icons i {
+    cursor: pointer;
+    font-size: 1.5rem;
+    color: #007bff;
+    transition: color 0.3s;
+  }
+  
+  .action-icons i:hover {
+    color: #0056b3;
+  }
+
+  .post-rental{
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  .card {
+    margin-top: 3rem;
+    min-height: 340px;
+  }
+  
+  
+
+  
